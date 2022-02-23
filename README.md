@@ -74,7 +74,7 @@ You'll need to do the following to get `hackage-server`'s dependency `text-icu` 
   - Ubuntu/Debian
 
         sudo apt-get update
-        sudo apt-get install zlib
+        sudo apt-get install zlib1g
 
   - Fedora/CentOS
 
